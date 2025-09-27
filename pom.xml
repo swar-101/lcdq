@@ -27,15 +27,15 @@
     </properties>
 
     <dependencies>
-        <!-- JUnit 5 for testing -->
+        <!-- JUnit 5 API -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter</artifactId>
+            <artifactId>junit-jupiter-api</artifactId>
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
 
-        <!-- JUnit 5 Engine for running tests -->
+        <!-- JUnit 5 Engine -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-engine</artifactId>
