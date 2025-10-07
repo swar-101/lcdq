@@ -1,4 +1,4 @@
-package com.leetcode.problem0778;
+package com.leetcode.problem0778.v1;
 
 import java.util.PriorityQueue;
 
